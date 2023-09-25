@@ -24,6 +24,8 @@ onMounted(() => {
 									<p class="mt-4"> <strong>Espécie:</strong> {{ c.species }}</p>
 									<p class="mt-4"> <strong>Gênero:</strong> {{ c.gender }}</p>
 									<p class="mt-4"><strong>Status:</strong> {{ c.status }}</p>
+									<p class="mt-4"><strong>Status:</strong> {{ c.status }}</p>
+
 
 								</div>
 								<RouterLink to="/">
