@@ -1,6 +1,13 @@
-# pokedex
+# Rick and Mory
 
-This template should help get you started developing with Vue 3 in Vite.
+Nome: Lucas Gabriel || RA: 1945239
+
+Curso: Analise e Desenvolvimento de Sitemas 
+Matéria: Desenvolvimento de aplicações para internet
+
+------Projeto---------
+
+Meu objetivo de projeto é trazer informações dos personagens de Rick And Mory, com local, sua espécie genêro, e tambem mostrando cada personagem, por imagem
 
 ## Recommended IDE Setup
 
