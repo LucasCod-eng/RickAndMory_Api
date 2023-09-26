@@ -19,16 +19,14 @@ onMounted(() => {
 						<div class="card">
 							<div class="card-body row">
 								<div class=" "><strong>{{ c.name }}</strong></div>
-								<img :src="c.image" >
+								<img :src="c.image">
 								<div>
 									<p class="mt-4"> <strong>Espécie:</strong> {{ c.species }}</p>
 									<p class="mt-4"> <strong>Gênero:</strong> {{ c.gender }}</p>
 									<p class="mt-4"><strong>Status:</strong> {{ c.status }}</p>
-
-
 								</div>
 								<RouterLink to="/">
-									<button class="btn btn-dark">Info Skills</button>
+									<button class="btn btn-dark">Informações</button>
 								</RouterLink>
 							</div>
 						</div>
@@ -36,6 +34,7 @@ onMounted(() => {
 				</div>
 			</div>
 		</div>
+		
 	</div>
 </template>
 
